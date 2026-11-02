@@ -1,4 +1,5 @@
 
+use lowercase "i" for index.qmd
 
 
 
